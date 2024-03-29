@@ -71,7 +71,7 @@ class MyApp(QMainWindow):
         widget.setLayout(layout)
         self.setCentralWidget(widget)
 
-        self.setWindowTitle('Etri_0.8')
+        self.setWindowTitle('Etri_1.2')
 
         # ADS 속도 그래프
         self.timer = QtCore.QTimer()
