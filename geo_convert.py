@@ -37,7 +37,7 @@ def wgs842tm(dLat_deg, dLon_deg):
 
         T = pow(tan(phi), 2)
         T2 = T * T
-        C = e2 / (1 - e2) * pow(cos(phi), 2) ## 여기 다름
+        C = e2 / (1 - e2) * pow(cos(phi), 2) 
         C2 = C * C
         A = (ramda - ramda0) * cos(phi)
         A2 = A * A
