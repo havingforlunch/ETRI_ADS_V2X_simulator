@@ -8,7 +8,7 @@ window_size = pyautogui.size()
 Text.default_resolution = 1080 * Text.size
 app = [Ursina(), QApplication(sys.argv)]
 
-window.title = "Etri_1.0"
+window.title = "Etri_1.2"
 window.borderless = False
 window.fullscreen = False
 window.show_ursina_splash = True
