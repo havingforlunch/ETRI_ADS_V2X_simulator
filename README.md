@@ -54,3 +54,7 @@
 
 </details>
  
+## 5. 프로젝트 결과
+![시뮬레이터 결과1](https://github.com/havingforlunch/ETRI_ADS_V2X_simulator/assets/105187310/bb9a0306-35ef-49f0-b193-44ce008ad9f4)
+![시뮬레이터 결과2](https://github.com/havingforlunch/ETRI_ADS_V2X_simulator/assets/105187310/970bdee8-776c-4414-95f1-544c84026d03)
+
