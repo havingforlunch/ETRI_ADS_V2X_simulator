@@ -32,8 +32,8 @@
 
 <details>
 <summary><b>핵심 기능 설명 더보기</b></summary>
+<div markdown="1">
 ### 4.1 전체 흐름도
-
 ![시뮬레이터 흐름도](https://github.com/havingforlunch/ETRI_ADS_V2X_simulator/assets/105187310/e317ad0d-03e8-4334-a621-1858d843a6e4)
 
 ### 4.2 차량의 움직임
